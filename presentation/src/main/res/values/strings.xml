@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Moviee</string>
+    <string name="fabric_api_key">YOUR_API_KEY</string>
+</resources>
